@@ -1,5 +1,5 @@
 
-# Spotify-Alura-Imers-o-front-end-2024
+# Spotify-Alura-Imersao-front-end-2024
 
 PT-BR:
 

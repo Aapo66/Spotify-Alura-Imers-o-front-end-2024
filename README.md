@@ -1,7 +1,7 @@
 
 # Spotify-Alura-Imers-o-front-end-2024
 
-PT-BR
+PT-BR:
 
 Para o projeto funcionar melhor e mostrar artistas dependendo do que você escreve na busca faça os seguintes passos no terminal do vscode ou onde você estiver codando:
 
@@ -15,7 +15,8 @@ Para o projeto funcionar melhor e mostrar artistas dependendo do que você escre
 
 5: Com tudo isso feito é so rodar o index.html e usar o programa. Mesmo ele não estando 100 por cento perfeito pois foi feito por um estudante de programação (eu mesmo) e ainda nao tem todas as funcionalidades esse programa serve para se notar como estou aprendendo. Esse programa foi feito junto com a imersão front-end do curso Online Alura! Obrigado!
 
-ENGLISH
+ENGLISH:
+
 To make the project work better and display artists based on what you enter in the search, follow these steps in the VSCode terminal or wherever you are coding:
 
 1: Make sure you have Node.js downloaded. If you don't have it yet, download it from: https://nodejs.org/en

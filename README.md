@@ -14,6 +14,11 @@ Para que o projeto funcione melhor e exiba artistas com base na sua pesquisa, si
 4: Por último, no terminal, aparecerá uma URL onde o servidor foi aberto. Geralmente é "http://localhost:3000/artists". Verifique se esta URL está escrita corretamente na linha de código 6 do arquivo script.js. Se sua URL for diferente, substitua no diretório da linha de código 6. A linha de código 6 deve estar assim: "const url = http://localhost:3000/artists?name_like=${searchTerm}"
 
 5: Com tudo isso feito, basta executar o index.html e usar o programa. Mesmo que não esteja 100% perfeito, pois foi feito por um estudante de programação (eu mesmo) e ainda não possui todas as funcionalidades, este programa serve para mostrar como estou aprendendo. Este programa foi desenvolvido durante a imersão front-end do curso online da Alura! Obrigado!
+Se você quiser me seguir:
+
+email: andersonelvis191@gmail.com
+twitter(X): https://twitter.com/AndersonEl16064
+linkedin: https://linkedin.com/in/anderson-elvis-8a8406227
 
 ENGLISH:
 
@@ -29,7 +34,11 @@ To make the project work better and display artists based on what you enter in t
 
 5: With all of this done, just run the index.html and use the program. Even though it's not 100% perfect, as it was made by a programming student (myself), and it doesn't have all the functionalities yet, this program serves to show how I am learning. This program was created during the front-end immersion of the Alura Online course! Thank you!
 
+If you want to follow me:
 
+email: andersonelvis191@gmail.com
+twitter(X): https://twitter.com/AndersonEl16064
+linkedin: https://linkedin.com/in/anderson-elvis-8a8406227
 
 
 
